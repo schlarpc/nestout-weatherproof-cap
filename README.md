@@ -2,12 +2,14 @@
 
 A 3D-printed replacement cap for the Nestout 15000mAh battery bank that integrates a McMaster-Carr cable gland, allowing a USB cable to pass into the sealed battery while maintaining water resistance.
 
+![Render of the adapter cap](nestout_cap.png)
+
 ## Parts
 
 | Part | Source | Qty |
 |------|--------|-----|
-| Nestout 15000mAh battery | — | 1 |
-| McMaster 5302N121 cord grip | mcmaster.com | 1 |
+| [Nestout 15000mAh battery](https://nestout.com/products/outdoor-portable-battery-15000mah) | — | 1 |
+| [McMaster 5302N121 cord grip](https://www.mcmaster.com/5302N121/) | mcmaster.com | 1 |
 | 3D-printed adapter cap | This repo | 1 |
 | Self-fusing silicone tape | Amazon / hardware store | 1 roll |
 
