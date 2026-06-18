@@ -4,6 +4,16 @@ A 3D-printed replacement cap for the Nestout 15000mAh battery bank that integrat
 
 ![Render of the adapter cap](nestout_cap.png)
 
+## Built Result
+
+The printed cap installed on a Nestout 15000mAh battery with the McMaster 5302N121 cord grip threaded into the top and a USB cable passing through into the sealed body:
+
+![Printed cap with cord grip installed on the battery](nestout_cap_installed.jpg)
+
+Powering a helmet-mounted setup in the field — the weatherproofed battery routes its cable out through the gland with the seal intact:
+
+![Battery with weatherproof cap mounted on a helmet rig](nestout_cap_helmet.jpg)
+
 ## Parts
 
 | Part | Source | Qty |
